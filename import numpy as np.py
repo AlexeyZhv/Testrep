@@ -15,3 +15,4 @@ font = {'family' : 'normal',
 print("jflakfjeke?")
 
 matplotlib.rc('font', **font)
+clslkac
